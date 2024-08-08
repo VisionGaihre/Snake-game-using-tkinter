@@ -1,1 +1,1 @@
-# yes_it_good.
+Snake game.
